@@ -1,4 +1,4 @@
-# DOC Wiki URL https://github.com/sudhir25464/React_Info_DOC.wiki.git
+## DOC Wiki URL [https://github.com/sudhir25464/React_Info_DOC.wiki.git](https://github.com/sudhir25464/React_Info_DOC/wiki)
 
 # Getting Started with Create React App
 
